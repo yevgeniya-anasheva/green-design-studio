@@ -1,0 +1,9 @@
+body {
+  font: 18px "Times New Roman", serif;
+}
+header #banner, nav, section img {
+  display: none;
+}
+#logo {
+  width: 100px;
+}
